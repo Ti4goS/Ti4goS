@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Excel/Power BI
+- 🔭 I’m currently working with Power BI/M Language & Python
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me at: tiagosantiago.cc@outlook.com
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
